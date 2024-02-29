@@ -1,0 +1,59 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    padding: 7%;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
+
+.h1 {
+    background-color: rgb(72, 113, 184);
+    height: 15%;
+    width: 100%;
+}
+.status{
+    display: flex;
+    justify-content: center;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+form {
+    /* box-sizing: border-box; */
+    padding: 0px 10px;
+    height: 70vh;
+    width: 25vw;
+}
+
+.elements {
+    margin: 20px;
+}
+
+.input {
+    font-family: "Roboto", sans-serif;
+    width: 100%;
+}
+
+button {
+    background-color: rgb(72, 113, 184);
+    color: white;
+    padding: 5px 10px;
+    border: 1px solid rgb(72, 113, 184);
+    border-radius: 5px;
+}
+
+.loginform {
+    padding: 0px;
+    margin: 0px;
+    border: 2px solid rgb(72, 113, 184);
+}
+.gender{
+    padding: 5px;
+}
